@@ -16,7 +16,7 @@ This is a Dashboard to view weekly retention rate of onboarding new users.
 * Run `php artisan db:seed` to seed the database
 
 ## How to run
-Run this command to run the application `php artisan serve` which will launch the application on `http:\\localhost:3000` and you can also use [nginx](http://nginx.org/en/download.html) or [apache](https://httpd.apache.org/download.cgi) consult [Laravel official documentation](https://laravel.com/docs/5.5/deployment) for configuration.
+Run this command to run the application `php artisan serve` which will launch the application on `http://localhost:3000` and you can also use [nginx](http://nginx.org/en/download.html) or [apache](https://httpd.apache.org/download.cgi) consult [Laravel official documentation](https://laravel.com/docs/5.5/deployment) for configuration.
 
 
 
