@@ -20,7 +20,7 @@ Run this command to run the application `php artisan serve` which will launch th
 
 
 
-# ADMIN LOGIN
+## ADMIN LOGIN
 * email: admin@admin.com
 * password: admin2017
 
